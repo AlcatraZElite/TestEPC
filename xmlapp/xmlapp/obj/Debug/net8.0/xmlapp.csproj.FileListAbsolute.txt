@@ -1,0 +1,14 @@
+C:\Users\Тимофей\source\repos\xmlapp\xmlapp\bin\Debug\net8.0\xmlapp.exe
+C:\Users\Тимофей\source\repos\xmlapp\xmlapp\bin\Debug\net8.0\xmlapp.deps.json
+C:\Users\Тимофей\source\repos\xmlapp\xmlapp\bin\Debug\net8.0\xmlapp.runtimeconfig.json
+C:\Users\Тимофей\source\repos\xmlapp\xmlapp\bin\Debug\net8.0\xmlapp.dll
+C:\Users\Тимофей\source\repos\xmlapp\xmlapp\bin\Debug\net8.0\xmlapp.pdb
+C:\Users\Тимофей\source\repos\xmlapp\xmlapp\obj\Debug\net8.0\xmlapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Тимофей\source\repos\xmlapp\xmlapp\obj\Debug\net8.0\xmlapp.AssemblyInfoInputs.cache
+C:\Users\Тимофей\source\repos\xmlapp\xmlapp\obj\Debug\net8.0\xmlapp.AssemblyInfo.cs
+C:\Users\Тимофей\source\repos\xmlapp\xmlapp\obj\Debug\net8.0\xmlapp.csproj.CoreCompileInputs.cache
+C:\Users\Тимофей\source\repos\xmlapp\xmlapp\obj\Debug\net8.0\xmlapp.dll
+C:\Users\Тимофей\source\repos\xmlapp\xmlapp\obj\Debug\net8.0\refint\xmlapp.dll
+C:\Users\Тимофей\source\repos\xmlapp\xmlapp\obj\Debug\net8.0\xmlapp.pdb
+C:\Users\Тимофей\source\repos\xmlapp\xmlapp\obj\Debug\net8.0\xmlapp.genruntimeconfig.cache
+C:\Users\Тимофей\source\repos\xmlapp\xmlapp\obj\Debug\net8.0\ref\xmlapp.dll
